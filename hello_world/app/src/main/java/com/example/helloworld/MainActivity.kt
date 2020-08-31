@@ -10,7 +10,7 @@ import android.view.MenuItem
 import android.view.View
 import android.widget.Toast
 
-class MainActivity : AppCompatActivity() {
+ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?)  {
         super.onCreate(savedInstanceState)
